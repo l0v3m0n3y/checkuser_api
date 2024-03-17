@@ -1,2 +1,7 @@
 # checkuser_api
-Api library for checkuser.org
+shell script library for checkuser.org
+# example
+```bash
+source ./checkuser_api.sh
+check_username "username"
+```
